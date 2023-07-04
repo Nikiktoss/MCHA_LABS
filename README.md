@@ -1,0 +1,1 @@
+This repository contains laboratory work on methods of numerical analysis for mathematical equations by Nikita Chebotarevsky, a third-year student of BSU.
